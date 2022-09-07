@@ -1,3 +1,12 @@
+/**
+* The Recursion program implements a method that
+* simply returns the nth fibonacci number to the standard output.
+*
+* @author  Vlhasner Milord
+* @since   2022-09-05 
+* @param   n
+* @return  the nth fibonacci number
+*/
 public class recursion {
     public static int fib(int n){
         //base case
