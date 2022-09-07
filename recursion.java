@@ -14,6 +14,13 @@ public class recursion {
         else
             return fib(n-1) + fib(n-2);
     }
+/**
+* The main method calls the fib method to return the nth number 
+* @author Vlhasner Milord
+* @param args
+* @return a statement of the nth fibonacci number
+*/
+
     public static void main(String[] args) {
         int n = 10; //n starts from 0
         if(n<0)
